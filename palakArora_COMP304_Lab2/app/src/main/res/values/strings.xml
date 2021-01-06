@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LeaseOrRentHome Inc.</string>
+    <string name="payment">Payment</string>
+    <string name="apartment">Apartment</string>
+    <string name="detached_home">Detached Home</string>
+    <string name="semiDetached_home">Semi-detached Home</string>
+    <string name="condominium_apartment">Condominium Apartment</string>
+    <string name="town_house">Town House</string>
+    <string name="homeOption">Please use the side menu to choose your home type</string>
+
+    <string name="selected">Chosen House: </string>
+    <string name="tvPayment">Select a method of payment</string>
+    <string name="textView">Select one of the options from the side menu</string>
+
+    <string name="cashOption">Cash</string>
+    <string name="creditcardOption">Credit Card</string>
+    <string name="debitcardOption">Debit Card</string>
+    <string name="checkoutBtn">Checkout</string>
+    <string name="paymentInstruction">Select one of the following payment methods: </string>
+
+    not changed at all
+    <string name="paymentTotal">Total Payment</string>
+    <string name="paymentOption">Payment Option</string>
+    <string name="selected_homes">Selected Homes</string>
+
+
+</resources>

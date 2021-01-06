@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.palakArora_COMP304_Lab2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.palakArora_COMP304_Lab2.SelectedHomes"></activity>
+        <activity android:name="com.example.palakArora_COMP304_Lab2.CardPaymentActivity" />
+        <activity android:name="com.example.palakArora_COMP304_Lab2.CashPaymentActivity" />
+        <activity android:name="com.example.palakArora_COMP304_Lab2.CheckoutActivity" />
+        <activity android:name="com.example.palakArora_COMP304_Lab2.TownHouseActivity" />
+        <activity android:name="com.example.palakArora_COMP304_Lab2.CondominiumActivity" />
+        <activity android:name="com.example.palakArora_COMP304_Lab2.SemiDetachedActivity" />
+        <activity android:name="com.example.palakArora_COMP304_Lab2.DetachedActivity" />
+        <activity android:name="com.example.palakArora_COMP304_Lab2.ApartmentActivity" />
+        <activity android:name="com.example.palakArora_COMP304_Lab2.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.palakArora_COMP304_Lab2.MenuDisplayer" />
+    </application>
+
+</manifest>
